@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Sakız",
+        "price": 0.5,
+        "image": "https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30097717/30097717_0_MC/8796994043954_1570024681556.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Coca Cola",
+        "price": 6,
+        "image":"https://www.mismarsanalmarket.com/UserFiles/Fotograflar/org/6400-coca-cola-200-ml-cam-54491250-jpg-54491250.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Ayakkabı",
+        "price": 400,
+        "image":"https://cdn.ramsey.com.tr/10126994-200-spor-ayakkabi-ramsey-244600-15-K.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Araba",
+        "price": 40000,
+        "image":"https://www.fktuningshop.com/images/urunler/peugeot-206-on-tampon-eki-esnek-plastik-resim-5344.jpg"
+    }
+    
+]
